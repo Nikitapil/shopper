@@ -1,6 +1,6 @@
 # Shopper
 
-    Link to published project https://nikitapil.github.io/shopper/  
+Link to published project https://nikitapil.github.io/shopper/  
   
 This application is a small online shop Demo based on Fake Store API https://fakestoreapi.com/
 Functional: Main page includes all shop products with a starting of a description and also filter by category and by title.
